@@ -1,5 +1,5 @@
 [shared]
-db_uri = sqlite:////home/tarek/repos/canvasindexer/canvasindexer/index.db
+db_uri = sqlite:///index.db
 [crawler]
 as_sources = http://localhost/JSONkeeper/as/collection.json
 interval = -1
